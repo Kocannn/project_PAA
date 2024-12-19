@@ -1,0 +1,35 @@
+Analysis Results
+===============
+
+n = 100:
+Worst Case: 10000.00
+Average Case: 664.39
+
+n = 150:
+Worst Case: 22500.00
+Average Case: 1084.32
+
+n = 200:
+Worst Case: 40000.00
+Average Case: 1528.77
+
+n = 250:
+Worst Case: 62500.00
+Average Case: 1991.45
+
+n = 300:
+Worst Case: 90000.00
+Average Case: 2468.65
+
+n = 350:
+Worst Case: 122500.00
+Average Case: 2957.92
+
+n = 400:
+Worst Case: 160000.00
+Average Case: 3457.54
+
+n = 500:
+Worst Case: 250000.00
+Average Case: 4482.89
+
